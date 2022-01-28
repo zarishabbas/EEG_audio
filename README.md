@@ -12,12 +12,11 @@ The goal of this project was to develop a machine learning algorithm that could 
 ## Project structure
 *Note.* In this project, people with MCI were not considered due to the imbalance of the dataset. 
 
-1. Exploratory Analysis
-2. Preprocessing: equalize session
-3. Preprocessing: filtering and rereferencing
-4. Preprocessing: creating epochs, standardizing, and performing ICA
-5. Classification using CNN
-6. Converting signal to audio using librosa
+1. Preprocessing: equalize session
+2. Preprocessing: filtering and rereferencing
+3. Preprocessing: creating epochs, standardizing, and performing ICA
+4. Classification using CNN
+5. Converting signal to audio using librosa
 
 ## Requirements
 It is strongly recommended to create a separate environment for the project.
